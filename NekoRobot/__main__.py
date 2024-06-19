@@ -137,12 +137,7 @@ buttons = [
             url=f"https://telegram.dog/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [
-        InlineKeyboardButton(text="📓 Guidelines", callback_data="help_back"),
-        InlineKeyboardButton(
-            text="Source 🌐", url="https://github.com/Awesome-Prince/NekoRobot-3.git"
-        ),
-    ],
+   
     [
         InlineKeyboardButton(
             text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
