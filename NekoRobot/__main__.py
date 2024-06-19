@@ -137,7 +137,6 @@ buttons = [
             url=f"https://telegram.dog/{BOT_USERNAME}?startgroup=true",
         )
     ],
-   
     [
         InlineKeyboardButton(
             text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
